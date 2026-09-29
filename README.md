@@ -2,9 +2,11 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=xrr2016&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=xrr2016&show_icons=true&include_all_commits=true&theme=light_github)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=xrr2016&layout=compact&langs_count=6&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=xrr2016&layout=compact&langs_count=6&theme=light_github)
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=xrr2016&show_icons=true&include_all_commits=true&theme=light_github" width="400" alt="GitHub Stats" />
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=xrr2016&layout=compact&langs_count=6&theme=light_github" width="290" alt="Top Languages" />
+</p>
 
 ### My Skills
 
