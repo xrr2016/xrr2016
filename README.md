@@ -8,7 +8,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=xrr2016&layout=compact&langs_count=6&theme=light_github" width="290" alt="Top Languages" />
 </p>
 
-### My Skills
+## My Skills
 
 <sub>Languages</sub>
 
