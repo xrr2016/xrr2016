@@ -2,11 +2,11 @@
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-stats-extended.vercel.app/api?username=xrr2016&show_icons=true&include_all_commits=true&theme=light_github" width="400" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=xrr2016&show_icons=true&include_all_commits=true&theme=light_github" width="420" alt="GitHub Stats" />
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=xrr2016&layout=compact&langs_count=6&theme=light_github" width="290" alt="Top Languages" />
-</p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=xrr2016&layout=compact&langs_count=6&theme=light_github" width="420" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xrr2016&theme=light" width="420" alt="streak stats" />
 
 ## My Skills
 
@@ -19,4 +19,5 @@
 <sub>Tech Stack</sub>
 
 [![My Skills](https://skillicons.dev/icons?i=astro,threejs,electron,flutter,tauri,pnpm,react,vue,nuxtjs,nodejs,bun,docker,postgresql,sqlite)](https://skillicons.dev)
+
 
